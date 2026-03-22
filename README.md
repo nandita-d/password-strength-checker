@@ -1,1 +1,1 @@
-# password-strength-checker
+A Java Swing-based Password Strength Checker featuring a modern gradient UI. It analyzes password strength based on multiple security criteria such as length, character variety, and complexity, providing real-time visual feedback (Weak, Medium, Strong).
